@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DGS.Models.DENEMELER>
+
+@{
+    ViewBag.Title = "Denemeler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row page-titles">
+    <div class="col-md-5 align-self-center">
+        <h4 class="text-themecolor">Müfredat</h4>
+    </div>
+    <div class="col-md-7 align-self-center text-right">
+        <div class="d-flex justify-content-end align-items-center">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Anasayfa</a></li>
+                <li class="breadcrumb-item active">Denemeler</li>
+            </ol>
+            <a class="btn btn-info d-none d-lg-block m-l-15" style="color:white;" href="@Url.Action("DenemeEkle", "DENEMELER")"><i class="fa fa-plus-circle"></i> Yeni Deneme</a>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Denemeler</h4>
+                <h6 class="card-subtitle"></h6>
+                <div class="table-responsive m-t-40">
+                    <table id="example23" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th width="5%">ID</th>
+                                <th width="75%">Deneme Adı</th>
+                                <th width="10%">Düzenle</th>
+                                <th width="10%">Sil</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var a in Model)
+                            {
+                                <tr>
+                                    <td>@a.ID</td>
+                                    <td>@a.DENEMEADI</td>
+                                    <td><center><a style="color:white;" class="btn waves-effect waves-light btn-block btn-primary mr-1" href="@Url.Action("DenemeDuzenle", "DENEMELER",new { Id = a.ID})">Düzenle</a></center></td>
+                                    <td><center><a style="color:white;" class="btn waves-effect waves-light btn-block btn-purple mr-1" href="@Url.Action("DenemeSil", "DENEMELER",new { Id = a.ID})">Sil</a></center></td>
+
+                                </tr>
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

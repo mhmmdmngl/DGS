@@ -1,0 +1,55 @@
+﻿@model List<DGS.Models.AYRINTILAR>
+
+@{
+    ViewBag.Title = "AyrintiDuzenle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-wrapper">
+    <!-- ============================================================== -->
+    <!-- Container fluid  -->
+    <!-- ============================================================== -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="card w-75">
+                <div class="card-body">
+                    <h3 class="card-title">@Model[0].dn.DENEMEADI</h3>
+                    
+                    @using (Html.BeginForm("AyrintiDuzenle", "AYRINTILAR", FormMethod.Post))
+                    {
+
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th width="55%">Konu Adı</th>
+                            <th width="15%">Doğru Sayısı</th>
+                            <th width="15%">Yanlış Sayısı</th>
+                            <th width="15%">Boş Sayısı</th>
+                        </tr>
+                    </thead>
+
+                    @for (int i = 0; i < Model.Count(); i++)
+                    {
+
+                <tr>
+                    <td style="display:none;">@Html.TextBoxFor(m => m[i].ID, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })</td>
+                    <td>@Model[i].mf.KONUADI</td>
+                    <td>@Html.TextBoxFor(m => m[i].DOGRU, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })</td>
+                    <td> @Html.TextBoxFor(m => m[i].YANLIS, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })</td>
+                    <td> @Html.TextBoxFor(m => m[i].BOS, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })</td>
+                    <td style="display:none;">@Html.TextBoxFor(m => m[i].DENEMEID, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })</td>
+                    <td style="display:none;">@Html.TextBoxFor(m => m[i].KONUID, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })</td>
+                </tr>
+                    }
+                </table>
+
+
+                        <div class="form-group">
+                            <input type="submit" width="75" value="Kaydet" class="btn btn-info float-right" />
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

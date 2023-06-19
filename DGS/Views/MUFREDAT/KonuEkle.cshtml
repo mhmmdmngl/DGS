@@ -1,0 +1,45 @@
+﻿@model DGS.Models.MUFREDAT
+
+@{
+    ViewBag.Title = "KonuEkle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-wrapper">
+    <!-- ============================================================== -->
+    <!-- Container fluid  -->
+    <!-- ============================================================== -->
+    <div class="container-fluid">
+        <!-- ============================================================== -->
+        <!-- Bread crumb and right sidebar toggle -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- End Bread crumb and right sidebar toggle -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Start Page Content -->
+        <!-- ============================================================== -->
+        <div class="row">
+            <div class="card w-75">
+                <div class="card-body">
+                    <h3 class="card-title">Cihaz Ekleme Sayfası</h3>
+
+                    @using (Html.BeginForm("konuEkle", "MUFREDAT", FormMethod.Post))
+                    {
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="grupadi">Müfredat</label>
+                                @Html.TextBoxFor(Model => Model.KONUADI, new { @class = "form-control", @Placeholder = "Konu Adını Girin..." })
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="Kaydet" />
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

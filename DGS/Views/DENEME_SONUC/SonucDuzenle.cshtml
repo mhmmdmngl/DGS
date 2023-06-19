@@ -1,0 +1,57 @@
+﻿@model DGS.Models.DENEME_SONUC
+
+@{
+    ViewBag.Title = "SonucDuzenle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+            <!-- ============================================================== -->
+            <!-- Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- End Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- Start Page Content -->
+            <!-- ============================================================== -->
+            <div class="row">
+                <div class="card w-75">
+                    <div class="card-body">
+                        <h3 class="card-title">Deneme Sonuç Sayfası</h3>
+                        @using (Html.BeginForm("SonucDuzenle", "DENEME_SONUC", FormMethod.Post))
+                        {
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="form-group">
+                                        <label for="grupadi">Deneme</label>
+                                        @Html.DropDownList("deneme", null, "Deneme Seç...", new { @class = "form-control" })
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="aciklama">Doğru Sayısı</label>
+                                        @Html.TextBoxFor(Model => Model.DOGRU, new { @class = "form-control" })
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="esnekg">Yanlış Sayısı</label>
+                                        @Html.TextBoxFor(Model => Model.YANLIS, new { @class = "form-control" })
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="esnekc">Boş Sayısı</label>
+                                        @Html.TextBoxFor(Model => Model.BOS, new { @class = "form-control" })
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="submit" value="Kaydet" />
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

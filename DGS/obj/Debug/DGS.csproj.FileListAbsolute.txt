@@ -1,0 +1,163 @@
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\DGS.dll.config
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\DGS.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\DGS.pdb
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\csc.exe
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\csc.exe.config
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\csc.rsp
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\csi.exe
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\csi.exe.config
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\csi.rsp
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.AppContext.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Console.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Net.Http.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\vbc.exe
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\vbc.exe.config
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\vbc.rsp
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Antlr3.Runtime.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Dapper.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Newtonsoft.Json.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Helpers.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Mvc.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Optimization.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Razor.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.WebPages.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\WebGrease.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Dapper.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Helpers.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Mvc.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Optimization.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.Razor.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.WebPages.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Newtonsoft.Json.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammed\source\repos\DGS\DGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammed\source\repos\DGS\DGS\obj\Debug\DGS.csproj.CopyComplete
+C:\Users\Muhammed\source\repos\DGS\DGS\obj\Debug\DGS.dll
+C:\Users\Muhammed\source\repos\DGS\DGS\obj\Debug\DGS.pdb
+C:\Users\Muhammed\source\repos\DGS\DGS\obj\Debug\DGS.csprojAssemblyReference.cache
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\DGS.dll.config
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\DGS.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\DGS.pdb
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\csc.exe
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\csc.exe.config
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\csc.rsp
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\csi.exe
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\csi.exe.config
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\csi.rsp
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.AppContext.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Collections.Immutable.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Console.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Globalization.Calendars.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.IO.Compression.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.IO.FileSystem.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Net.Http.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Net.Sockets.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Reflection.Metadata.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.ValueTuple.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Xml.XPath.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\vbc.exe
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\vbc.exe.config
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\vbc.rsp
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\VBCSCompiler.exe
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\roslyn\VBCSCompiler.exe.config
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Antlr3.Runtime.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Dapper.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Microsoft.Web.Infrastructure.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Newtonsoft.Json.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Oracle.ManagedDataAccess.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Helpers.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Mvc.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Optimization.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Razor.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.WebPages.Deployment.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.WebPages.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.WebPages.Razor.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\WebGrease.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Dapper.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Helpers.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Mvc.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Optimization.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.Razor.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.WebPages.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.WebPages.Deployment.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\System.Web.WebPages.Razor.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Newtonsoft.Json.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Antlr3.Runtime.pdb
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\obj\Debug\DGS.csproj.AssemblyReference.cache
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\obj\Debug\DGS.csproj.CoreCompileInputs.cache
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\obj\Debug\DGS.csproj.CopyComplete
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\obj\Debug\DGS.dll
+G:\5.12.2022 YEDEK\Temel Projeler\Bahar\DGS\DGS\obj\Debug\DGS.pdb

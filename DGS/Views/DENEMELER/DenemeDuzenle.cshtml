@@ -1,0 +1,47 @@
+﻿@model DGS.Models.DENEMELER
+
+@{
+    ViewBag.Title = "DenemeDuzenle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+            <!-- ============================================================== -->
+            <!-- Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- End Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- Start Page Content -->
+            <!-- ============================================================== -->
+            <div class="row">
+                <div class="card w-75">
+                    <div class="card-body">
+                        <h3 class="card-title">Deneme Düzenleme Sayfası</h3>
+                        @using (Html.BeginForm("DenemeDuzenle", "DENEMELER", FormMethod.Post))
+                        {
+                            <div style="display:none;" class="form-group">
+                                <label for="aktif">Cihaz ID</label>
+                                @Html.TextBoxFor(Model => Model.ID, new { @class = "form-control" })
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label for="aciklama">Deneme Adı</label>
+                                        @Html.TextBoxFor(Model => Model.DENEMEADI, new { @class = "form-control" })
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="submit" value="Kaydet" />
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

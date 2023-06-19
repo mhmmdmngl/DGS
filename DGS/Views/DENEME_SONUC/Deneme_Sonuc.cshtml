@@ -1,0 +1,59 @@
+﻿@model IEnumerable<DGS.Models.DENEME_SONUC>
+@{
+    ViewBag.Title = "Deneme_Sonuc";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}    <div class="row page-titles">
+    <div class="col-md-5 align-self-center">
+        <h4 class="text-themecolor">Müfredat</h4>
+    </div>
+    <div class="col-md-7 align-self-center text-right">
+        <div class="d-flex justify-content-end align-items-center">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Anasayfa</a></li>
+                <li class="breadcrumb-item active">Müfredat</li>
+            </ol>
+            <a class="btn btn-info d-none d-lg-block m-l-15" style="color:white;" href="@Url.Action("SonucEkle", "DENEME_SONUC")"><i class="fa fa-plus-circle"></i> Deneme Sonucu Ekle</a>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">DGS Matematik Müfredatı</h4>
+                <h6 class="card-subtitle">Konular Listesi</h6>
+                <div class="table-responsive m-t-40">
+                    <table id="example23" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Deneme Adı</th>
+                                <th>Doğru</th>
+                                <th>Yanlış</th>
+                                <th>Boş</th>
+                                <th>Tarih</th>
+                                <th>Düzenle</th>
+                                <th>Sil</th>
+                                <th>Ayrıntılar</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var a in Model)
+                            {
+                                <tr>
+                                    <td>@a.dn.DENEMEADI</td>
+                                    <td>@a.DOGRU</td>
+                                    <td>@a.YANLIS</td>
+                                    <td>@a.BOS</td>
+                                    <td>@a.TARIH</td>
+                                    <td><center><a style="color:white;" class="btn waves-effect waves-light btn-block btn-primary mr-1" href="@Url.Action("SonucDuzenle", "DENEME_SONUC", new { Id = a.ID})">Düzenle</a></center></td>
+                                    <td><center><a style="color:white;" class="btn waves-effect waves-light btn-block btn-purple mr-1" href="@Url.Action("SonucSil", "DENEME_SONUC", new { Id = a.ID})">Sil</a></center></td>
+                                    <td><center><a style="color:white;" class="btn waves-effect waves-light btn-block btn-success mr-1" href="@Url.Action("AyrintiDuzenle", "AYRINTILAR", new { denemeID = a.DENEMEID})">Ayrıntılar</a></center></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
